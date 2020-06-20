@@ -35,6 +35,11 @@ const Home = () => (
             resume.sidebar.map(item => (
               <List key={`${item.title}-side`} data={item} />
             ))}
+          <section style={{ paddingTop: '25px' }}>
+            <a href='https://github.com/clertonraf/gatsby-resume-cms/raw/master/src/assets/Resume_Gilmara_Wamser.pdf'>
+              <h1 className="section-header">Download Lebenslauf</h1>
+            </a>
+          </section>
         </div>
       </div>
       {/* <Footer social={resume.social} /> */}

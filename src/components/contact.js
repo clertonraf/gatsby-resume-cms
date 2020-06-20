@@ -44,10 +44,10 @@ const Contact = ({ field, value }) => (
       </a>
     )}
     {field === 'country' && (
-      <>
+      <a href="https://goo.gl/maps/ETqtadJMaQiYxoq7A" target="_blank" rel="noreferrer" style={{ display: 'flex' }}>
         <AmericasIcon className="contact-icon" />
         <span className="contact-link">{value}</span>
-      </>
+      </a>
     )}
   </span>
 );
