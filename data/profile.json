@@ -1,9 +1,9 @@
 {
   "contact": {
     "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
+    "email": "gilmarawamser.com@gmail.com",
     "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "location": "Berlin, Deutschland"
   },
   "skills": [
     {
@@ -265,37 +265,8 @@
       "end": "01/2016"
     }
   ],
-  "social": [
-    {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
-      "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
-    },
-    {
-      "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
-    },
-    {
-      "service": "github",
-      "url": "https://github.com/barancezayirli"
-    },
-    {
-      "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
-    },
-    {
-      "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
-    }
-  ],
-  "role": "Technologist",
+  "social": [],
+  "role": "Auszubildender",
   "projects": [
     {
       "name": "Gatsby resume starter",
@@ -304,5 +275,5 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Gilmara Wamser"
 }
