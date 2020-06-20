@@ -38,7 +38,7 @@ const Contact = ({ field, value }) => (
       </>
     )}
     {field === 'location' && (
-      <a href="https://goo.gl/maps/cqzpQc435cJHGmfUA" target="_blank" style={{ display: 'flex' }}>
+      <a href="https://goo.gl/maps/cqzpQc435cJHGmfUA" target="_blank" rel="noreferrer" style={{ display: 'flex' }}>
         <LocationIcon className="contact-icon" />
         <span className="contact-link">{value}</span>
       </a>
