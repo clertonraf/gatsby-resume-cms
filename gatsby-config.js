@@ -6,22 +6,18 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
-    author: `Baran Cezayirli`,
+    title: `Gilmara Wamser`,
+    author: `Gilmara Wamser`,
     description: `With 10+ years of experience in various industries, I help tech
               startups from idea phase to high volumes. I design and build
               scalable solutions, implement internal processes that fit your
               organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
-    social: {
-      twitter: `barancezayirli`,
-    },
   },
   plugins: [
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Baran Cezayirli | Technologist`,
+        name: `Gilmara Wamser`,
         short_name: `CV`,
         start_url: `/`,
         background_color: `#f7f0eb`,

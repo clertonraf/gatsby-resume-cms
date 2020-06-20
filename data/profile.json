@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
+    "phone": "0176​/62323482",
     "email": "gilmarawamser.com@gmail.com",
-    "website": "",
-    "location": "Berlin, Deutschland"
+    "location": "Friedrichsberger Straße 4 - 10243, Berlin",
+    "country": "Blumenau, Brasilien"
   },
   "skills": [
     {
@@ -41,74 +41,56 @@
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "Während ich in Brasilien lebte, konnte ich einige Kenntnisse im Bereich Zahnmedizin erwerben. Ich bin motiviert, deutsche Methoden, die Routine der Zahnarztpraxis, Materialien und verschiedene zahnärztliche Instrumente zu lernen. Ich würde mich freuen, Teil eines freundlichen Teams zu sein.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
+      "institution": "Berlin, Deutschland",
+      "degree": "Auszubildende (Rahel-Hirsch-Schule)",
+      "start": "2020",
+      "end": "2022"
     },
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "institution": "Joinville, Brasilien",
+      "degree": "Weiterbildung - Kieferorthopädie",
+      "start": "2010",
+      "end": "2013"
+    },
+    {
+      "institution": "Blumenau, Brasilien",
+      "degree": "Zahnmedizinische",
+      "start": "2004",
+      "end": "2008"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
+      "role": "Auszubildende",
+      "company": "MKG Chirurgie Dr. Andreas Hasse, Berlin Zehlendorf",
+      "description": "",
+      "start": "02/2020",
       "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
+      "role": "Ehrenamtlicher",
+      "company": "Känguru Projekt in Berlin/Diakonisches Werk BerlinBrandenburg-schlesische Oberlausitz",
+      "description": "",
+      "start": "12/2019",
+      "end": ""
     },
     {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
+      "description": "Ich in Deutschland angekommen bin",
+      "migration": "12/2018"
     },
     {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
+      "role": "Zahnpraxismanagerin",
+      "company": "Brasil Popular, São José dos Pinhais, Brasilien",
+      "description": "",
+      "start": "02/2010",
+      "end": "03/2018"
     }
   ],
   "social": [],
-  "role": "Auszubildender",
+  "role": "Auszubildende",
   "projects": [
     {
       "name": "Gatsby resume starter",
@@ -120,9 +102,17 @@
   "fullname": "Gilmara Wamser",
   "sidebar": [
     {
-      "title": "Kernkompetenzen",
+      "title": "Interessen",
       "items": [
-        "4 Jahre..."
+        "Praxisorganisation",
+        "Abrechnungs"
+      ]
+    },
+    {
+      "title": "Ziel",
+      "items": [
+        "Weiterbildung als Abrechnungsmanagerin in der Zahnartpraxis",
+        "Abrechnungs"
       ]
     }
   ]

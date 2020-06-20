@@ -3,6 +3,7 @@ import MailIcon from '../assets/mail.svg';
 import MobileIcon from '../assets/mobile.svg';
 import GlobeIcon from '../assets/globe.svg';
 import LocationIcon from '../assets/location.svg';
+import AmericasIcon from '../assets/globe-americas-solid.svg';
 
 const Contact = ({ field, value }) => (
   <span className="flex my-2 text-primary-900 tracking-widest items-center">
@@ -37,8 +38,14 @@ const Contact = ({ field, value }) => (
       </>
     )}
     {field === 'location' && (
-      <>
+      <a href="https://goo.gl/maps/cqzpQc435cJHGmfUA" target="_blank" style={{ display: 'flex' }}>
         <LocationIcon className="contact-icon" />
+        <span className="contact-link">{value}</span>
+      </a>
+    )}
+    {field === 'country' && (
+      <>
+        <AmericasIcon className="contact-icon" />
         <span className="contact-link">{value}</span>
       </>
     )}

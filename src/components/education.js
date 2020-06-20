@@ -2,7 +2,7 @@ import React from 'react';
 
 const Education = ({ data }) => (
   <section className="mb-5">
-    <h1 className="section-header mb-5">Education</h1>
+    <h1 className="section-header mb-5">Schulische Bildung</h1>
     {data &&
       data.map(item => (
         <div className="my-2" key={item.degree}>
