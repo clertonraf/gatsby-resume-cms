@@ -117,5 +117,13 @@
       "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
     }
   ],
-  "fullname": "Gilmara Wamser"
+  "fullname": "Gilmara Wamser",
+  "sidebar": [
+    {
+      "title": "Kernkompetenzen",
+      "items": [
+        "4 Jahre..."
+      ]
+    }
+  ]
 }
