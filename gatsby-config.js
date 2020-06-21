@@ -51,6 +51,15 @@ module.exports = {
         printRejected: true,
         tailwind: true, // Enable tailwindcss support
       }
-    }
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "UA-170228578-1",
+        anonymize: true,
+        respectDNT: true,
+      },
+    },
   ],
 };
