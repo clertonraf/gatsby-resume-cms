@@ -8,10 +8,8 @@ module.exports = {
   siteMetadata: {
     title: `Gilmara Wamser`,
     author: `Gilmara Wamser`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
+    description: `With 10+ years of experience as a dentist in Brazil, now I'm in Berlin trying to apply my knowledge
+    and experience into the German health care market.`,
   },
   plugins: [
     {
