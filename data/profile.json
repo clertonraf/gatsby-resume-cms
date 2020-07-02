@@ -51,12 +51,14 @@
     },
     {
       "institution": "Joinville, Brasilien",
+      "certificate": "https://github.com/clertonraf/gatsby-resume-cms/raw/master/src/assets/Zertifikat_2_mit_ubersetzung.pdf",
       "degree": "Weiterbildung - Kieferorthopädie",
       "start": "2010",
       "end": "2013"
     },
     {
       "institution": "Blumenau, Brasilien",
+      "certificate": "https://github.com/clertonraf/gatsby-resume-cms/raw/master/src/assets/Zertifikat_1_mit_ubersetzung.pdf",
       "degree": "Zahnmedizinische",
       "start": "2004",
       "end": "2008"

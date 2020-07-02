@@ -6,7 +6,12 @@ const Education = ({ data }) => (
     {data &&
       data.map(item => (
         <div className="my-2" key={item.degree}>
-          <h2 className="item-header text-lg">{item.degree}</h2>
+          <h2 className="item-header text-lg">
+            {item?.certificate
+              ? <a href={item.certificate} target="_blank">{item.degree}</a>
+              : item.degree
+            }
+          </h2>
           <h3 className="item-sub">{item.institution}</h3>
           <p className="text-sm text-neutral-500 font-light">
             {item.start} - {item.end}
