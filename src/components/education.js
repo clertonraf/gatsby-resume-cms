@@ -8,7 +8,7 @@ const Education = ({ data }) => (
         <div className="my-2" key={item.degree}>
           <h2 className="item-header text-lg">
             {item?.certificate
-              ? <a href={item.certificate} target="_blank">{item.degree}</a>
+              ? <a href={item.certificate} target="_blank" rel="noreferrer">{item.degree}</a>
               : item.degree
             }
           </h2>
